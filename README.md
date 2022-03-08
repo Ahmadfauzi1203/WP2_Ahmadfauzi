@@ -1,4 +1,5 @@
 # WebPro2
 
-# berisi file-file latihan saya
-# Thanks
+Repository ini
+berisi file-file latihan saya
+Thanks :)
